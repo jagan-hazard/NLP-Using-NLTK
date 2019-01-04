@@ -1,3 +1,4 @@
+
 # NLP-Using-NLTK
 This repo contains some Basic things about Natural language processing using NLTK
 
@@ -19,6 +20,7 @@ Natural Language Toolkit (NLTK):
   
    Installing NLTK package using PIP:
     ---------------------------------
+    
     1) Install using pip package manager
     
           pip install nltk
