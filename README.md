@@ -34,6 +34,6 @@ Natural Language Toolkit (NLTK):
           import nltk
           nltk.download()
           
-        this command will show available packages, you just select all the packages and download it.
+        this command will show available packages, you just select all the packages and download it. It will take a while to download the packages. 
        
      If everything went fine, then you sucessfully installed nltk and their additional packages.
